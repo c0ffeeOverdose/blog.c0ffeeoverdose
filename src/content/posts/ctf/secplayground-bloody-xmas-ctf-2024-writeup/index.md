@@ -1,7 +1,7 @@
 ---
 title: SECPlayground Bloody Xmas CTF 2024 Writeup
 published: 2025-01-06
-description: "Writeup ทีม Don't Know Everything ในการแข่งขัน CTF ในวัน Halloween จัดโดย SECPlayground"
+description: "การแข่งขัน CTF ในวัน Christmas จัดโดย SECPlayground และ Sponsored โดย NCSA Thailand, I-SECURE, Secure-D ในวันที่ 25/12/2024–28/12/2024"
 tags: ["Don't Know Everything Team", "SECPlayground", "Bloody Xmas CTF", "2024", "CTF Writeup"]
 category: CTF Writeup
 draft: false
