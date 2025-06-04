@@ -34,12 +34,12 @@ Here are some of the cybersecurity and programming competitions I’ve participa
 
 - **Thailand Cyber Top Talent 2023 - SENIOR (Qualifier)** — September 16, 2023
 - **Thailand Cyber Top Talent 2023 - SENIOR (Final)** — September 30, 2023
-- **NCSA CTF Boot Camp 2024** — September 14, 2024
 - **ICPC Thailand 2024** — July 7, 2024
+- **NCSA CTF Boot Camp 2024** — September 14, 2024
 - **CTF RSP Northeast 1** — September 6, 2024
 - **Thailand Cyber Top Talent 2024 - SENIOR (Qualifier)** — September 28, 2024
 - **Cyber Range Thailand 2024 - Online** — October 1, 2024
-- **Thailand Cyber Top Talent 2024 - SENIOR (Qualifier)** — October 12, 2024
+- **Thailand Cyber Top Talent 2024 - SENIOR (Final)** — October 12, 2024
 - **Cyber Range Thailand 2024 - Final Round** — October 19, 2024
 - **Hackloween CTF 2024** — October 31, 2024
 - **PSRU Cyber Hackathon #2** — December 1, 2024
